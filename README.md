@@ -12,4 +12,4 @@ The first 3 arguments correspond to information you should be able to access fro
 
 Your userId is simply your spotify user ID.
 
-Playlist ID can be found either by a GET request on playlists listed under your account, or probably more easily, by following the instructions (here)[https://open.spotify.com/playlist/3inHsDf6ADDsvgndEeckkf?si=750d7712a28047b7] 
+Playlist ID can be found either by a GET request on playlists listed under your account, or probably more easily, by following the instructions [here](https://open.spotify.com/playlist/3inHsDf6ADDsvgndEeckkf?si=750d7712a28047b7)
